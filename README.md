@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is João Ferrete and i'm passionate by programming.
+### My name is João Ferrete and i'm a code addicter.
 
 
 - 🇧🇷 I am Brazilian 
