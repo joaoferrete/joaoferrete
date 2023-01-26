@@ -3,14 +3,14 @@
 ### My name is João Ferrete and i'm a code addicter.
 
 
-- 🇧🇷 I am Brazilian 
+- 🇧🇷 Brazilian 
 - 😁 I'm 23 Years Old
-- 🏃 I'm a Programming Marathoner
-- 📚 I'm Computer Science Student at UFES
+- 🏃 Programming Marathoner
+- 📚 Computer Science Student at UFES
 - 💻 Now I'm a Software Engeneering Intern at @Cobliteam
 - 🖥️ Linux Enthusiast
-- 💡 Fun Fact: I'm a HUGE Pokémon fan! 
-- 📈 You can find me on https://linkedin.com/in/joaoferrete
+- ⚡ Fun Fact: I'm a HUGE Pokémon fan! 
+- 📫 You can find me on https://linkedin.com/in/joaoferrete
 
 ###
 #
