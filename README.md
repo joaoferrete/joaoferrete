@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### My name is João Ferrete and i'm a code addicter.
-
+### My name is João Ferrete 
 
 - 🇧🇷 Brazilian 
 - 😁 I'm 23 Years Old
