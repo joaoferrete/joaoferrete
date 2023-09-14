@@ -1,6 +1,6 @@
 # 🦦 Hey Folks 🦦
 
-### My name is João Ferrete 
+### I am João Ferrete 
 
 - 🇧🇷 Brazilian 
 - 😁 I'm 23 Years Old
