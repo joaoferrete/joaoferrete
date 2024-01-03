@@ -6,7 +6,7 @@
 - 😁 24 Years 
 - 🏃 Programming Marathoner
 - 📚 Computer Science Student at Universidade Federal do Espírito Santo
-- 💻 Software Engeneering at [Cobli](https://www.cobli.co/)
+- 💻 Software Engineer at [Cobli](https://www.cobli.co/)
 - 🖥️ Linux Enthusiast
 - ⚡ Fun Fact: I'm a HUGE Pokémon fan! 
 
