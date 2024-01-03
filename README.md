@@ -3,10 +3,10 @@
 ### I am João Ferrete 
 
 - 🇧🇷 Brazilian 
-- 😁 I'm 23 Years Old
+- 😁 24 Years 
 - 🏃 Programming Marathoner
 - 📚 Computer Science Student at Universidade Federal do Espírito Santo
-- 💻 Software Engeneering Intern at [Cobli](https://www.cobli.co/)
+- 💻 Software Engeneering at [Cobli](https://www.cobli.co/)
 - 🖥️ Linux Enthusiast
 - ⚡ Fun Fact: I'm a HUGE Pokémon fan! 
 
