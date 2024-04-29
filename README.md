@@ -1,4 +1,4 @@
-# 🦦 Hey Folks 🦦
+# Hey Folks
 
 ### I am João Ferrete 
 
