@@ -3,7 +3,7 @@
 ### I am João Ferrete
 
 - 🇧🇷 Brazilian 
-- 😁 24 Years 
+- 😁 25 Years Old
 - 🏃 Programming Marathoner
 - 📚 Computer Science Student at UFES
 - 💻 Software Engineer at [Cobli](https://www.cobli.co/)
