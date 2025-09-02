@@ -7,7 +7,7 @@
 - 😁 25 Years Old
 - 🏃 Programming Marathoner
 - 📚 Computer Science Student at UFES
-- 💻 Software Engineer at [Cobli](https://www.cobli.co/)
+- 💻 Software Engineer (and Tech Lead) at [Cobli](https://www.cobli.co/)
 - 🖥️ Linux Enthusiast
 - ⚡ Fun Fact: I'm a HUGE Pokémon fan! 
 
