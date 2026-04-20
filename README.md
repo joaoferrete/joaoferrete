@@ -8,6 +8,7 @@
 - 🏃 Programming Marathoner
 - 📚 Computer Science Student at UFES
 - 💻 Software Engineer (and Tech Lead) at [Cobli](https://www.cobli.co/)
+- 🎵 Creator of [Go Lister](https://golister.app) app
 - 🖥️ Linux Enthusiast
 - ⚡ Fun Fact: I'm a HUGE Pokémon fan! 
 
