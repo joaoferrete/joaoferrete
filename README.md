@@ -8,7 +8,7 @@
 - 💻 Software Engineer & Tech Lead (IoT Video and Camera team) at [Cobli](https://www.cobli.co/)
 - 🎵 Creator of [Go Lister](https://golister.app)
 - 🖥️ Linux Enthusiast & Cloud Infrastructure Builder
-- ⚡ Fun Facts: HUGE Nintendo fan (Pokémon & The Legend of Zelda), Indie Folk listener, and dedicated gym goer 6 days a week!
+- ⚡ Fun Facts: HUGE Nintendo fan, Indie Folk listener, and dedicated gym rat!
 
 ### 📫 You can find me [here](https://joaoferrete.github.io) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoferrete/) 
