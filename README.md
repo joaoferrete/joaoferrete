@@ -31,6 +31,6 @@
 ### 🚀 Projects & Interests
 
 *   **[Go Lister](https://golister.app):** A web-based music application that I actively develop, managing everything from the codebase to third-party integrations.
-*   **[Lifter](https://github.com/joaoferrete/lifter):** A AI coach, with Hevy and Google Fit integration, to help with workouts and exercices in general.
+*   **[Lifter](https://pypi.org/project/lifter-cli/):** A AI coach, with Hevy and Google Fit integration, to help with workouts and exercices in general.
 *   **[Lighter](https://github.com/joaoferrete/Lighter):** A simple Gnome Extension that improves your videocall lighting at night by adding adjustable white borders around your screen edges.
 *   **Audio Production:** Beyond coding, I explore audio production tools like Reaper and Audacity, and I've even launched a podcast called *Refatorando* to talk about Tech and Nerd Stuff.
