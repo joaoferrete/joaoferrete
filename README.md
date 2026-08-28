@@ -3,10 +3,10 @@
 ### I am João Ferrete 👨🏻‍💻
 
 - 🇧🇷 Brazilian
-- 😁 26 Years Old
+- 😁 27 Years Old
 - 📚 Computer Science Student at UFES
-- 💻 Software Engineer & Tech Lead (IoT Video and Camera team) at [Cobli](https://www.cobli.co/)
-- 🎵 Creator of [Go Lister](https://golister.app)
+- 💻 Software Engineer (IoT Video and Camera team) at [Cobli](https://www.cobli.co/)
+- 🎵 Creator of [Go Lister](https://golister.app) and Go Lifter apps
 - 🖥️ Linux Enthusiast & Cloud Infrastructure Builder
 - ⚡ Fun Facts: HUGE Nintendo fan, Indie Folk listener, and dedicated gym rat!
 
