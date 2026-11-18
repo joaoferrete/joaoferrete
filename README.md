@@ -6,7 +6,7 @@
 - 😁 27 Years Old
 - 📚 Computer Science Student at UFES
 - 💻 Software Engineer (IoT Video and Camera team) at [Cobli](https://www.cobli.co/)
-- 🎵 Creator of [Go Lister](https://golister.app) and Go Lifter apps
+- 🏷️ Founder & developer at [GoWorks](https://goworks.me), an independent software label
 - 🖥️ Linux Enthusiast & Cloud Infrastructure Builder
 - ⚡ Fun Facts: HUGE Nintendo fan, Indie Folk listener, and dedicated gym rat!
 
@@ -30,7 +30,16 @@
 
 ### 🚀 Projects & Interests
 
-*   **[Go Lister](https://golister.app):** A web-based music application that I actively develop, managing everything from the codebase to third-party integrations.
-*   **[Lifter](https://pypi.org/project/lifter-cli/):** A AI coach, with Hevy and Google Fit integration, to help with workouts and exercices in general.
-*   **[Lighter](https://github.com/joaoferrete/Lighter):** A simple Gnome Extension that improves your videocall lighting at night by adding adjustable white borders around your screen edges.
+Published by [GoWorks](https://goworks.me):
+
+*   **[Go Lister](https://golister.app):** A real-time collaborative music app: one room, one link, and a queue everyone controls, playing in sync.
+*   **[Go Lifter](https://golifter.app):** Training, nutrition and an AI coach that proposes and never writes on its own. Native Android, [on Google Play](https://play.google.com/store/apps/details?id=com.ferrete.golifter).
+*   **[Tabli](https://tabli.goworks.me)** *(in development)*: Split a group's expenses and settle up at the end, with Pix ready. No account, local-first, end-to-end encrypted sync.
+*   **[Copyveil](https://github.com/joaoferrete/copyveil):** A clipboard history for Linux that remembers what you copy and forgets your secrets. Rust, GTK 4, GPL-3.0.
+*   **[Lifter](https://pypi.org/project/lifter-cli/):** An AI training coach in your terminal, with Hevy and Google Fit integration.
+*   **[Lighter](https://github.com/joaoferrete/Lighter):** A simple GNOME extension that improves your video-call lighting at night by adding adjustable white borders around your screen edges.
+*   **[terminal-assistant](https://github.com/joaoferrete/terminal-assistant):** Notes, tasks and smart home under one trigger engine, in one command-line tool.
+
+Beyond code:
+
 *   **Audio Production:** Beyond coding, I explore audio production tools like Reaper and Audacity, and I've even launched a podcast called *Refatorando* to talk about Tech and Nerd Stuff.
